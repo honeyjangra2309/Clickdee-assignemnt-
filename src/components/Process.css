@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+.process_container {
+    padding-top: 5rem;
+    width: 100vw;
+    background: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.process_header {
+    font-family: 'Poppins';
+    font-style: normal;
+   margin: 0;
+   padding: 0;
+    color: #FB923C;
+}
+.process_subHeader {
+    color:  #41414A;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+}
+.process_subHeader_text {
+    font-family: 'Poppins';
+    font-style: normal;
+    color: #7A7A7A;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+.progress_steps {
+    margin-top: 2rem;
+}
+.step {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 1.5rem;
+    padding: 0;
+}
+.step span {
+    font-size: 12px;
+    background: #FDF4ED;
+    padding: 8px 13px;
+    border-radius: 50%;
+    margin-right: 3rem;
+}
+.step_text_header {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    color: #EA580C;
+    margin: 0;
+    padding: 0;
+}
+.step_text_subHeader {
+    font-family: 'Poppins';
+    font-style: normal;
+   font-size: 14px;
+    color: #41414A;
+    margin: 0.2rem;
+    padding: 0;
+}
