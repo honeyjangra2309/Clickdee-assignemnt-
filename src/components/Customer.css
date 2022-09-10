@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+.customer_container {
+    padding-top: 5rem;
+    width: 100vw;
+    background: #FEFDFB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.process_header {
+    font-family: 'Poppins';
+    font-style: normal;
+   margin: 0;
+   padding: 0;
+    color: #FB923C;
+}
+.process_subHeader {
+    color:  #41414A;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+}
+.process_subHeader_text {
+    font-family: 'Poppins';
+    font-style: normal;
+    color: #7A7A7A;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+.ratings{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1rem 0;
+}
+.ratings h3 {
+    margin: 1rem;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    color: #626262;
+}
+.ratings p {
+    margin: 1rem;
+    font-family: 'Poppins';
+    font-style: normal;
+    color: #626262;
+}
+.customers_review {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+}

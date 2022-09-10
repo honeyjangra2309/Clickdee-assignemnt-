@@ -50,9 +50,9 @@ font-weight: 400;
 .header_main {
     background: url("../assets/header_background.jpg");
     width: 100vw;
-    height: 600px;
+    height: 33rem;
     background-repeat: no-repeat;
-    background-size: 100vw;
+    background-size: 100vw 100%;
     display: flex;
     justify-content: center;
     align-items: center;
