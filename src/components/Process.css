@@ -11,7 +11,7 @@
 .process_header {
     font-family: 'Poppins';
     font-style: normal;
-   margin: 0;
+   margin-bottom: 1rem;
    padding: 0;
     color: #FB923C;
 }
@@ -20,6 +20,7 @@
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 700;
+    margin-bottom: 1.5rem;
 }
 .process_subHeader_text {
     font-family: 'Poppins';

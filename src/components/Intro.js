@@ -15,10 +15,12 @@ function Intro() {
             <p className='available_left_text'>Our Fully Trained Experts Are Ready to Help You. <br /> Call Now For Your Risk-FREE Quote</p>
           </div>
           <div className="available_right">
-          <span className="call_button">
-            <img src={callIcon2} alt="" />
-            866-951-5443
-        </span>
+          <a href="tel: +866-951-5443" style={{textDecoration:"none"}}>
+            <span className="call_button">
+              <img src={callIcon2} alt="" />
+              866-951-5443
+          </span>
+        </a>
           </div>
         </div>
     </div>

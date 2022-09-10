@@ -19,7 +19,8 @@
 font-style: normal;
 font-weight: 700;
 color: #41414A;
-margin: 0;
+/* margin: 0; */
+margin-bottom: 1.5rem;
 }
 .intro_text {
     font-family: 'Poppins';

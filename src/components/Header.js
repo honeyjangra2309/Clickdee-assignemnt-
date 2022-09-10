@@ -23,17 +23,18 @@ function Header() {
         <div className="logoIcon_right">
           <p className="call_us">Call us at </p>
           <img src={callIcon} alt="" />
-          <p className="number">866-951-5443</p>
+          <a href="tel: +866-951-5443" style={{textDecoration:"none"}}><p className="number">866-951-5443</p></a>
         </div>
       </div>
       <div className="header_main">
         <h1>Delhi, DL Pest Exterminator</h1>
         <h4> Delhi Number 1 Pest Exterminator is just One Call Away!</h4>
         <h3 className="header_main_mission"> For Fast & Easy, Same-Day Service <br></br> Call Now to Get Rid of Those Pesky Pests Today!</h3>
-        <span className="call_button">
+        <a href="tel: +866-951-5443" style={{textDecoration:"none"}}><span className="call_button">
             <img src={callIcon2} alt="" />
             866-951-5443
         </span>
+        </a>
         <div className="services">
             <div className="service">
                 <img src={tickIcon} alt="" />

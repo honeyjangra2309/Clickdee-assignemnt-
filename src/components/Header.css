@@ -36,6 +36,7 @@ font-weight: 300;
     margin: 0 0.5rem;
 }   
 .number {
+    margin: 0;
     font-family: 'Poppins';
     font-style: normal;
     color: #FB923C;
@@ -43,6 +44,7 @@ font-weight: 300;
     line-height: 1rem;
 }
 .call_us {
+    margin: 0;
     font-family: 'Poppins';
 font-style: normal;
 font-weight: 400;
